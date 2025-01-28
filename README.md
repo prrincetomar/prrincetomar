@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @prrincetomar
-- 👀 I’m interested in ... DSA in C
-- 🌱 I’m currently learning ... C
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... prrincetomar
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 Hi, I’m Prince Tomar
+- 👀 I’m interested in ... DSA in C language
+- 🌱 I’m currently learning ... C language
+- 📫 How to reach me ... @prrincetomar
 
 <!---
 prrincetomar/prrincetomar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
